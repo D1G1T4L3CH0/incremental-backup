@@ -1,0 +1,5 @@
+$RECYCLE.BIN
+RECYCLER
+System Volume Information
+pagefile.sys
+.Trash*
