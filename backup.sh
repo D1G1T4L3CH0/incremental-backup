@@ -54,7 +54,7 @@ readonly OPTIONS="--progress \
 
 printf 'Checking host and port... '
 nc -z ${REMOTE_HOST} ${REMOTE_HOST_PORT}
-if [ $? -ne 0 ]dragonslayer
+if [ $? -ne 0 ]
 then
 	printf 'Aborting. Cannot connect.\n'
 	exit
